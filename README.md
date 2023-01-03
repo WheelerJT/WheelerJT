@@ -1,0 +1,5 @@
+- My name is Jamal Wheeler
+- I am 19 years old
+- I enjoy introspective lyrical rap & listening to podcast
+- I am currently self teaching to become a Full-Stack Software Engineer
+- My email is wheeler.jt.24@gmail.com
