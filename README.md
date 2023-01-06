@@ -5,8 +5,7 @@
 ## About Me
 
 
-+ I am 19 years old
-+ I live in 🌲🌲Oregon🌲🌲
++ I am a 19 year old from 🌲🌲Oregon🌲🌲
 + I enjoy introspective lyrical rap & listening to podcast
 + Currently self-teaching through various resources to become a Full-Stack Software Engineer
 
