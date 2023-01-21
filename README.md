@@ -11,8 +11,9 @@
 
 ### Favorite quote:
 
-> We make a fuss if it's them,
+> We make a fuss if it's them,  
 > but we hush if it's us.
+> 
 > -Lupe Fiasco
 
 ### Contact Info
