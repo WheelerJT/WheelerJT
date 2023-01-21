@@ -11,9 +11,9 @@
 
 ### Favorite quote:
 
-> Just let me be me.
-> That's the only way I know.
-> -Kendrick Lamar
+> We make a fuss if it's them,
+> but we hush if it's us.
+> -Lupe Fiasco
 
 ### Contact Info
 
