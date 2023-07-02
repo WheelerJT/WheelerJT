@@ -5,8 +5,8 @@
 ## About Me
 
 
-+ I am a 19 year old from 🌲🌲Oregon🌲🌲
-+ I enjoy introspective lyrical rap & listening to podcast
++ I am a 20 year old from 🌲🌲Oregon🌲🌲
++ I enjoy listening to introspective lyrical rap & 70's Soul
 + Currently self-teaching through various resources to become a Full-Stack Software Engineer
 
 ### Favorite quote:
