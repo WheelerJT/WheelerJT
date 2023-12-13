@@ -6,15 +6,9 @@
 
 
 + I am a 20 year old from 🌲🌲Oregon🌲🌲
-+ I enjoy listening to introspective lyrical rap & 70's Soul
-+ Currently self-teaching through various resources to become a Full-Stack Software Engineer
++ I enjoy listening to introspective lyrical rap, 70's Soul, and early 2000 Alternative Rock
++ Currently self-teaching in Video Game Design/ Development through various resources
 
-### Favorite quote:
-
-> We make a fuss if it's them,  
-> but we hush if it's us.
-> 
-> -Lupe Fiasco
 
 ### Contact Info
 
